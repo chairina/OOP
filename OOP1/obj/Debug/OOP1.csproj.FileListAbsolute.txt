@@ -1,0 +1,5 @@
+E:\Metrodata\Bootcamp\Week 4\Tugas 1\OOP1\bin\Debug\OOP1.exe.config
+E:\Metrodata\Bootcamp\Week 4\Tugas 1\OOP1\bin\Debug\OOP1.exe
+E:\Metrodata\Bootcamp\Week 4\Tugas 1\OOP1\bin\Debug\OOP1.pdb
+E:\Metrodata\Bootcamp\Week 4\Tugas 1\OOP1\obj\Debug\OOP1.exe
+E:\Metrodata\Bootcamp\Week 4\Tugas 1\OOP1\obj\Debug\OOP1.pdb

@@ -1,0 +1,6 @@
+E:\Metrodata\Bootcamp\Week 4\Tugas 1\Tugas 1\bin\Debug\Tugas 1.exe.config
+E:\Metrodata\Bootcamp\Week 4\Tugas 1\Tugas 1\obj\Debug\Tugas 1.csprojResolveAssemblyReference.cache
+E:\Metrodata\Bootcamp\Week 4\Tugas 1\Tugas 1\bin\Debug\Tugas 1.exe
+E:\Metrodata\Bootcamp\Week 4\Tugas 1\Tugas 1\bin\Debug\Tugas 1.pdb
+E:\Metrodata\Bootcamp\Week 4\Tugas 1\Tugas 1\obj\Debug\Tugas 1.exe
+E:\Metrodata\Bootcamp\Week 4\Tugas 1\Tugas 1\obj\Debug\Tugas 1.pdb

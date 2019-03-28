@@ -1,0 +1,6 @@
+E:\Metrodata\Bootcamp\Week 4\Tugas 1\OOPPolymorphism\bin\Debug\OOPPolymorphism.exe.config
+E:\Metrodata\Bootcamp\Week 4\Tugas 1\OOPPolymorphism\bin\Debug\OOPPolymorphism.exe
+E:\Metrodata\Bootcamp\Week 4\Tugas 1\OOPPolymorphism\bin\Debug\OOPPolymorphism.pdb
+E:\Metrodata\Bootcamp\Week 4\Tugas 1\OOPPolymorphism\obj\Debug\OOPPolymorphism.exe
+E:\Metrodata\Bootcamp\Week 4\Tugas 1\OOPPolymorphism\obj\Debug\OOPPolymorphism.pdb
+E:\Metrodata\Bootcamp\Week 4\Tugas 1\OOPPolymorphism\obj\Debug\OOPPolymorphism.csprojResolveAssemblyReference.cache
